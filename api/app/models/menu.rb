@@ -1,3 +1,3 @@
 class Menu < ApplicationRecord
     has_many :menu_items
-en
+end
